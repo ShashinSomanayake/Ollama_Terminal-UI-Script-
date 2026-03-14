@@ -14,42 +14,6 @@
 
 <hr>
 
-<h2>📝 GitHub Short Description (≈200 words)</h2>
-
-<pre>
-🤖 AI Assistant + Android Tools for Termux – All-in-One Bash Script
-
-Unify your AI workflows and device management in a single terminal interface.  
-This script combines:
-
-- Ollama integration – Start/stop the server, choose from multiple models
-  (Phi-4, Gemma, DeepSeek), run prompts, chat interactively,
-  use voice input, and manage logs/templates.
-
-- Android app & process control – Disable/enable/force-stop apps via ADB,
-  monitor live CPU/RAM usage with an htop-like menu, kill processes,
-  and clean up background hogs.
-
-- Productivity tools – Daily journal, file summarizer,
-  offline wiki lookup, REST API helper, and Modelfile management.
-
-Everything is menu-driven with dialog – no typing required
-for Android tasks.
-
-Built for Termux, but works wherever Bash, ADB, and Ollama are available.
-
-Perfect for developers, power users, and AI enthusiasts who want
-a unified toolbox on their Android device.
-
-No more switching between scripts – one script does it all.
-
-🔗 [Repository link]
-</pre>
-
-<hr>
-
-<h2>📚 README.md (Full Guide)</h2>
-
 <h3>Overview</h3>
 
 <p>
@@ -436,7 +400,6 @@ This project is licensed under the MIT License.
 <ul>
 <li><a href="https://ollama.com">Ollama</a></li>
 <li>Termux community</li>
-<li>Original script authors</li>
 </ul>
 
 <hr>
