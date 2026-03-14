@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🤖 AI Assistant + Android Tools for Termux</h1>
+<h1>🤖 Ollama Local AI Assistant Controller Script + Android Tools for Termux (ALL IN ONE)</h1>
 
 <p><b>All-in-One Bash Script for AI + Android Device Management</b></p>
 
@@ -443,6 +443,6 @@ This project is licensed under the MIT License.
 
 <div align="center">
 
-<b>Enjoy your unified AI + Android toolbox! 🚀</b>
+<b>Enjoy your unified AI + Android toolbox! Created by Shashin Somanbayake aka USDS 🚀</b>
 
 </div>
